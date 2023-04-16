@@ -1,0 +1,19 @@
+table {
+    width: 100%;
+  }
+  
+.custom-toggle {
+    margin: 15px;
+    float: right;
+    width: 250px;
+    height: 35px;
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+  }
+
+  .button-container {
+    display: grid;
+    place-items: center;
+  }
+  
